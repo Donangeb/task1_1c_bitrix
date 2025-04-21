@@ -1,0 +1,28 @@
+div.news-list img.preview-picture
+{
+	max-width: 1200px;
+    margin: 0 auto;
+	
+}
+
+p.news-item
+{
+	margin:0;
+	margin-bottom:15px;
+}
+
+.news-date-time
+{
+	display: inline-block;
+	background: linear-gradient(90deg, #ff6b6b, #4ecdc4);
+	color: white;
+	padding: 5px 10px;
+	border-radius: 20px;
+	font-size: 0.8rem;
+	margin-bottom: 10px;
+}
+
+.preview-picture {
+
+	border: 1px solid #E4E7E9;
+}
